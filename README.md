@@ -1,1 +1,2 @@
-<br> <br> test
+<p align="center">
+test
